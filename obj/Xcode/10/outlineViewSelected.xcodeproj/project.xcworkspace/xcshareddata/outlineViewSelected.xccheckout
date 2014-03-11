@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4A3EE5B5-624E-4D8F-B81C-808BC280367E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>outlineViewSelected</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>159FFA91-F85D-4BE3-BDA5-ED6E8D4DB96C</key>
+		<string>ssh://github.com/tofutim/outlineViewSelected.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>obj/Xcode/10/outlineViewSelected.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>159FFA91-F85D-4BE3-BDA5-ED6E8D4DB96C</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/tofutim/outlineViewSelected.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>159FFA91-F85D-4BE3-BDA5-ED6E8D4DB96C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>159FFA91-F85D-4BE3-BDA5-ED6E8D4DB96C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>outlineViewSelected</string>
+		</dict>
+	</array>
+</dict>
+</plist>

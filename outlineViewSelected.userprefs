@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWindowController.cs">
+    <Files>
+      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="MainWindowController.cs" Line="112" Column="43" />
+      <File FileName="TableViewDelegate.cs" Line="1" Column="1" />
+      <File FileName="OutlineViewDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tim/Projects/outlineViewSelected/MainWindowController.cs" line="128" column="1" />
+      <Breakpoint file="/Users/tim/Projects/outlineViewSelected/MainWindowController.cs" line="126" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Loqu8/Projects/sapatos/src/Sapatos/Sapatos.Core/ViewModels/FirstViewModel.cs" line="68" offsetX="281" offsetY="1005" expression="e.Message" liveUpdate="False" />
+    <Watch file="../../../../Loqu8/Projects/sapatos/src/Sapatos/Sapatos.Core/ViewModels/FirstViewModel.cs" line="59" offsetX="182" offsetY="1259" expression="w" liveUpdate="False" />
+    <Watch file="../../../../Loqu8/Projects/sapatos/src/Sapatos/Sapatos.XamMac/Views/FirstViewOutlineViewDelegate.cs" line="26" offsetX="432" offsetY="314" expression="ov.SelectedRow" liveUpdate="False" />
+    <Watch file="../../../../Loqu8/Projects/sapatos/src/Sapatos/Sapatos.XamMac/Views/FirstViewOutlineViewDelegate.cs" line="26" offsetX="436" offsetY="391" expression="row" liveUpdate="False" />
+    <Watch file="../../../../Loqu8/Projects/sapatos/src/Sapatos/Sapatos.XamMac/Views/FirstViewOutlineViewDelegate.cs" line="26" offsetX="429" offsetY="352" expression="ov.SelectedRow" liveUpdate="False" />
+    <Watch file="../../../../Loqu8/Projects/sapatos/src/Sapatos/Sapatos.XamMac/Views/FirstViewOutlineViewDelegate.cs" line="28" offsetX="680" offsetY="336" expression="ov.SelectedRows" liveUpdate="False" />
+    <Watch file="../../../../Loqu8/Projects/sapatos/src/Sapatos/Sapatos.XamMac/Views/FirstViewOutlineViewDelegate.cs" line="28" offsetX="680" offsetY="361" expression="ov.SelectedRows.Count" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
